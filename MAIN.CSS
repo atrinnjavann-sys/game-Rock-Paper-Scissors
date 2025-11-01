@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(187, 202, 230);
+}
+body>input{
+    position: relative;
+    bottom: -100px;
+    right: -550px;
+    
+}
+#bazikonshomare1{
+    background-color: #e48acb;
+    border-radius: 20px;
+    height: 30px;
+
+}
+#bazikonshomare2{
+    background-color: #e48acb;
+    border-radius: 20px;
+    height: 30px;
+
+}
+body>button{
+    background-color: #948dfa;
+    border-radius: 20px;
+    position: relative;
+    bottom: -175px;
+    right: -340px;
+    height: 30px;
+}
+body>h1{
+    color: rgb(189, 9, 168);
+    position: relative;
+    bottom: -210px;
+    right: -660px;
+}
+body>p{
+    background-color: #37b87c;
+}
